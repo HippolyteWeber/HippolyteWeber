@@ -20,6 +20,13 @@ Je travaille également sur un projet personnel :
 
 🖥️ Je suis actuellement à la recherche d'une alternance dans le cadre de mon master pour la rentrée de septembre. Je suis enthousiaste à l'idée de pouvoir appliquer mes compétences et continuer à apprendre dans un environnement professionnel stimulant.
 
+## Quelques statistiques me concernant
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HippolyteWeber&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HippolyteWeber&langs_count=5&theme=tokyonight)
+
+
+
 ## Me contacter
 
 Vous pouvez me retrouver sur [LinkedIn](https://www.linkedin.com/in/hippolyteweber/) ou me contacter par [✉](mailto:hippolyte.weber@gmail.com). Je suis toujours ouvert à de nouvelles opportunités et collaborations.
