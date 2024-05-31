@@ -22,8 +22,8 @@ Je travaille également sur un projet personnel :
 
 ## Quelques statistiques me concernant
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HippolyteWeber&count_private=true&theme=tokyonight&showicons=true) </br>
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HippolyteWeber&langs_count=5&theme=tokyonight)
+ <p align="center"> ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HippolyteWeber&count_private=true&theme=tokyonight&showicons=true) </br>
+    ![ My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HippolyteWeber&langs_count=5&theme=tokyonight)</p>
 
 
 
